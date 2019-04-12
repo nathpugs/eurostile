@@ -1,24 +1,17 @@
- 
-
-
-
 @font-face {
     font-family: 'evogriaitalic';
     src: url('https://rawcdn.githack.com/nathpugs/eurostile/4dc7ea60847bcb5c295e47e967a932ce61eef0d3/Evogria/evogria_italic-webfont.woff2') format('woff2'),
          url('https://rawcdn.githack.com/nathpugs/eurostile/4dc7ea60847bcb5c295e47e967a932ce61eef0d3/Evogria/evogria_italic-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: 600;
     font-style: normal;
 
 }
-
-
-
 
 @font-face {
     font-family: 'evogriaregular';
     src: url('https://rawcdn.githack.com/nathpugs/eurostile/4dc7ea60847bcb5c295e47e967a932ce61eef0d3/Evogria/evogria-webfont.woff2') format('woff2'),
          url('https://rawcdn.githack.com/nathpugs/eurostile/4dc7ea60847bcb5c295e47e967a932ce61eef0d3/Evogria/evogria-webfont.woff') format('woff');
-    font-weight: normal;
+    font-weight: 600;
     font-style: normal;
 
 }
